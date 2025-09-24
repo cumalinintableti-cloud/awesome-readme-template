@@ -1,0 +1,1 @@
+Bu website TurkGDPS Demonlist sitesinin workerstan pagese çevrilmesinden dolayı boşta kalan workers sitesinin yerine koyulmuştur. https://turkgdpsdl.guelsmyniw.workers.dev/ girenler yeni siteye yönlendirilecektir.
